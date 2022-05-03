@@ -142,7 +142,7 @@ public class ArtForm extends JFrame{
     }
 
     public static void main(String[] args) {
-        JFrame frame = new ArtForm("Art Command");
+        JFrame frame = new ArtForm("Art Command Generator");
         frame.setVisible(true);
     }
 }
